@@ -1,4 +1,4 @@
-### [BrigChill3000]((https://discord.gg/5hktPQ5sdG)
+### [BrigChill3000](https://discord.gg/5hktPQ5sdG)
 
 ## Наше сообщество
 [<img src="https://i.imgur.com/lOHdByt.png" alt="Discord" width="150" align="left">](https://discord.gg/2WAsvv5B5v)
