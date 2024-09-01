@@ -3,9 +3,3 @@
 ## Наше сообщество?
 [<img src="https://i.imgur.com/lOHdByt.png" alt="Discord" width="150" align="left">](https://discord.gg/2WAsvv5B5v)
 **Основной Discord-сервер.**<br>Общение космонавтов, а так же разработка. Сервер посвящённый SS13/14.
-
-[<img src="https://i.imgur.com/lOHdByt.png" alt="Discord" width="150" align="left">](https://discord.gg/UEQDBC2TEj)
-**Бриг**<br>Бриг, сервер для общения.
-
-[<img src="https://i.imgur.com/lOHdByt.png" alt="Discord" width="150" align="left">](https://discord.gg/fRsn7RxdQp)
-**Brig Dev**<br>Альтернативный сервер разработки по играм, по типу Roblox.
